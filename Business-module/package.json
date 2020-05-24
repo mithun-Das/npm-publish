@@ -1,0 +1,14 @@
+{
+  "name": "business-module",
+  "version": "1.0.0",
+  "description": "Basic app to consume a self published module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mithun.das227@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "my-first-generic-module": "^1.1.0"
+  }
+}
